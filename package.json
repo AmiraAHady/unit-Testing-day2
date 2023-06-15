@@ -1,0 +1,14 @@
+{
+  "name": "day-2",
+  "version": "1.0.0",
+  "description": "jasmin demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "amira",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.0.1"
+  }
+}
